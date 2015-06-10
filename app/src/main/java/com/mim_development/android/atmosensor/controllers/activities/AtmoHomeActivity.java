@@ -1,12 +1,14 @@
-package com.mim_development.android.atmosensor;
+package com.mim_development.android.atmosensor.controllers.activities;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.mim_development.android.atmosensor.R;
 
-public class AtmoHome extends ActionBarActivity {
+
+public class AtmoHomeActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

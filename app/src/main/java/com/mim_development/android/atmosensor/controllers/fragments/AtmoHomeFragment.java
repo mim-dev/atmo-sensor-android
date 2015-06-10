@@ -1,10 +1,12 @@
-package com.mim_development.android.atmosensor;
+package com.mim_development.android.atmosensor.controllers.fragments;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.mim_development.android.atmosensor.R;
 
 
 /**
